@@ -1,0 +1,196 @@
+Id;Nem;SzuletesiDatum;CsaladiAllapot;Egeszsegbiztositas;EgeszsegugyiEllatas;Nemzetiseg;Megye;HaviBruttoJovedelem;EvesEgyebBruttoJovedelem;IskolaiVegzettseg;PolitikaiNezet;Szavazokepes;TeaFogyasztasNaponta;FishAndChipsFogyasztasEvente
+1;férfi;1983.07.18;házas;van;állami;skót;Kent;1432,00;6554,00;GCSE;liberális;;7;45
+2;nő;1965.03.04;özvegy bejegyzett élettárs;van;vegyes;angol;Essex;4018,00;185,00;Bachelor's;konzervatív;;6;15
+3;nő;1997.08.15;házas;nincs;;ír;Yorkshire;3669,00;9053,00;Master's;zöldpárti;;8;34
+4;férfi;1975.12.09;elvált;van;állami;pakisztáni;Greater London;3300,00;0,00;A-level;munkáspárti;;5;63
+5;nő;1989.02.17;bejegyzett élettárs;nincs;;walesi;West Midlands;1750,00;7001,00;GCSE;liberális;;2;?
+6;férfi;2003.01.03;egyedülálló;nincs;;angol;Kent;0,00;2090,00;Bachelor's;zöldpárti;;4;12
+7;nő;1949.11.23;özvegy;van;állami;skót;Essex;1559,00;5600,00;Master's;konzervatív;;0;45
+8;egyéb;1962.05.09;házas;van;magán;ír;Greater London;2048,00;172,00;Doctorate;liberális;;3;19
+9;nő;1995.09.15;elvált;nincs;;pakisztáni;Yorkshire;3520,00;6029,00;A-level;munkáspárti;;6;29
+10;férfi;1955.06.25;házas;van;állami;angol;West Midlands;4032,00;0,00;GCSE;egyéb;;1;20
+11;férfi;1987.08.03;egyedülálló;van;állami;skót;Essex;3800,00;1568,00;Bachelor's;konzervatív;;5;10
+12;nő;1991.02.12;házas;van;állami;angol;Kent;2250,00;8602,00;A-level;zöldpárti;;2;12
+13;nő;1969.05.07;elvált;nincs;;ír;West Midlands;2850,00;7000,00;GCSE;munkáspárti;;4;15
+14;férfi;1999.06.18;házas;van;magán;pakisztáni;Yorkshire;1890,00;3582,00;Bachelor's;liberális;;6;8
+15;nő;1972.11.14;egyedülálló;nincs;;walesi;Greater London;0,00;4235,00;GCSE;konzervatív;;3;20
+16;egyéb;1980.04.25;elvált;van;állami;angol;Essex;3600,00;500,00;Master's;zöldpárti;;7;30
+17;férfi;1964.01.10;házas;van;állami;skót;Kent;2500,00;2850,00;A-level;egyéb;;1;60
+18;nő;1950.10.05;özvegy;nincs;;ír;West Midlands;0,00;9032,00;Doctorate;liberális;;9;?
+19;férfi;2000.09.23;bejegyzett élettárs;van;vegyes;pakisztáni;Yorkshire;1300,00;0,00;GCSE;munkáspárti;;2;18
+20;nő;1978.03.30;házas;van;magán;walesi;Greater London;4200,00;2500,00;Bachelor's;konzervatív;;3;23
+21;férfi;1971.11.11;házas;van;állami;angol;Essex;2800,00;3000,00;GCSE;munkáspárti;;3;40
+22;nő;1988.12.22;elvált;nincs;;ír;Kent;0,00;1520,00;Bachelor's;liberális;;4;18
+23;férfi;2002.03.01;egyedülálló;nincs;;walesi;Greater London;0,00;300,00;GCSE;zöldpárti;;0;10
+24;nő;1981.08.07;házas;van;állami;skót;West Midlands;4000,00;5000,00;A-level;konzervatív;;5;20
+25;egyéb;1996.09.18;házas;van;magán;pakisztáni;Yorkshire;1800,00;750,00;Bachelor's;egyéb;;7;33
+26;férfi;1973.07.19;özvegy;van;állami;angol;Essex;2700,00;2850,00;Doctorate;munkáspárti;;6;50
+27;nő;1959.06.26;elvált;van;állami;ír;Kent;3600,00;1450,00;Master's;zöldpárti;;9;?
+28;férfi;1992.02.16;házas;van;vegyes;skót;Greater London;2500,00;300,00;Bachelor's;liberális;;2;15
+29;nő;1984.04.15;elvált bejegyzett élettárs;nincs;;walesi;West Midlands;0,00;2200,00;A-level;konzervatív;;3;21
+30;férfi;1967.10.04;házas;van;magán;angol;Yorkshire;4300,00;0,00;Bachelor's;munkáspárti;;8;60
+31;nő;1982.05.10;házas;van;állami;pakisztáni;Essex;1450,00;3200,00;GCSE;liberális;;4;17
+32;egyéb;2004.01.29;egyedülálló;nincs;;ír;Kent;0,00;0,00;GCSE;zöldpárti;;1;30
+33;férfi;1990.07.05;házas;van;állami;skót;Greater London;3100,00;1750,00;Bachelor's;konzervatív;;7;12
+34;nő;1977.03.12;házas;van;állami;angol;West Midlands;1800,00;500,00;A-level;munkáspárti;;2;?
+35;férfi;2001.06.14;házas;van;magán;walesi;Yorkshire;2200,00;250,00;Master's;zöldpárti;;4;25
+36;nő;1958.09.28;házas;van;állami;pakisztáni;Essex;3000,00;4800,00;Bachelor's;liberális;;6;40
+37;egyéb;1963.10.17;elvált;van;állami;ír;Kent;1800,00;0,00;GCSE;konzervatív;;0;35
+38;férfi;1985.03.21;házas;van;magán;skót;Greater London;4100,00;800,00;A-level;zöldpárti;;9;28
+39;nő;2000.12.06;házas;van;vegyes;angol;West Midlands;3700,00;0,00;Doctorate;liberális;;5;15
+40;férfi;1993.02.14;házas;van;állami;pakisztáni;Yorkshire;1500,00;3300,00;GCSE;munkáspárti;;2;45
+41;nő;1961.04.15;özvegy;van;állami;angol;Kent;2400,00;3100,00;Master's;konzervatív;;7;12
+42;férfi;1978.07.11;egyedülálló;nincs;;walesi;Essex;0,00;2000,00;GCSE;zöldpárti;;3;22
+43;nő;1989.10.23;házas;van;vegyes;ír;Greater London;3650,00;1520,00;Bachelor's;liberális;;6;40
+44;férfi;1957.05.18;házas;van;magán;pakisztáni;West Midlands;4200,00;3750,00;A-level;munkáspárti;;5;?
+45;nő;1976.08.25;egyedülálló;van;állami;skót;Yorkshire;1800,00;5400,00;GCSE;zöldpárti;;8;25
+46;nő;1999.01.09;elvált;van;állami;angol;Kent;2800,00;250,00;Master's;konzervatív;;2;33
+47;férfi;1960.02.03;házas;nincs;;walesi;Essex;0,00;6000,00;Bachelor's;liberális;;1;28
+48;nő;2002.03.17;egyedülálló;van;állami;ír;Greater London;1500,00;0,00;GCSE;konzervatív;;4;45
+49;férfi;1984.06.27;házas;van;állami;pakisztáni;West Midlands;1700,00;3550,00;A-level;munkáspárti;;7;18
+50;nő;1951.09.30;házas;van;állami;skót;Yorkshire;2400,00;4150,00;Bachelor's;zöldpárti;;9;20
+51;egyéb;1974.12.15;elvált;van;állami;angol;Kent;1850,00;3250,00;Master's;liberális;;6;15
+52;nő;1968.11.02;házas;van;állami;walesi;Essex;3000,00;1000,00;Doctorate;konzervatív;;2;10
+53;férfi;2001.10.09;egyedülálló;nincs;;ír;Greater London;0,00;800,00;GCSE;zöldpárti;;1;?
+54;nő;1986.08.14;házas;van;állami;pakisztáni;West Midlands;2500,00;6200,00;Bachelor's;munkáspárti;;7;30
+55;nő;1970.05.25;házas;van;állami;skót;Yorkshire;3900,00;0,00;A-level;liberális;;4;25
+56;férfi;1966.07.16;özvegy;van;állami;angol;Kent;2100,00;9200,00;Bachelor's;zöldpárti;;2;33
+57;nő;1995.03.05;házas;van;állami;walesi;Essex;1700,00;1850,00;GCSE;konzervatív;;8;50
+58;férfi;1973.06.12;házas;van;magán;ír;Greater London;3400,00;2750,00;Master's;liberális;;3;12
+59;férfi;1982.09.24;házas;van;állami;pakisztáni;West Midlands;2600,00;4250,00;Doctorate;munkáspárti;;5;10
+60;nő;1955.04.30;házas;van;állami;skót;Yorkshire;4500,00;0,00;Bachelor's;zöldpárti;;6;40
+61;férfi;1978.11.11;házas;van;vegyes;walesi;Essex;3800,00;3000,00;A-level;liberális;;4;25
+62;nő;1962.02.21;házas;van;állami;angol;Kent;3400,00;850,00;Master's;zöldpárti;;7;18
+63;férfi;2000.06.30;egyedülálló;nincs;;ír;Greater London;0,00;700,00;GCSE;munkáspárti;;2;33
+64;nő;1953.09.19;házas;van;állami;pakisztáni;West Midlands;2450,00;4000,00;Bachelor's;liberális;;3;15
+65;férfi;1987.05.03;házas;van;állami;skót;Yorkshire;2300,00;5600,00;Master's;konzervatív;;5;10
+66;nő;1961.01.27;házas;van;állami;angol;Essex;3600,00;2850,00;Doctorate;zöldpárti;;1;45
+67;férfi;1999.12.14;egyedülálló;nincs;;walesi;Kent;0,00;0,00;GCSE;liberális;;0;40
+68;nő;1975.11.30;elvált;van;magán;ír;Greater London;4150,00;3100,00;A-level;zöldpárti;;8;28
+69;férfi;1969.08.24;házas;van;állami;pakisztáni;West Midlands;2000,00;800,00;Bachelor's;munkáspárti;;7;20
+70;nő;1982.06.29;házas;van;állami;skót;Yorkshire;3250,00;1250,00;GCSE;konzervatív;;2;12
+71;nő;1990.04.10;házas;van;vegyes;angol;Essex;2500,00;3400,00;Bachelor's;liberális;;6;?
+72;nő;1977.01.05;házas;van;állami;pakisztáni;Kent;3450,00;0,00;A-level;zöldpárti;;5;15
+73;férfi;1984.09.11;házas;van;állami;walesi;Greater London;2800,00;5500,00;Master's;munkáspárti;;3;8
+74;nő;1956.07.18;házas;van;állami;skót;West Midlands;4200,00;2900,00;Doctorate;liberális;;2;40
+75;férfi;1991.05.06;egyedülálló;nincs;;angol;Yorkshire;0,00;2100,00;GCSE;konzervatív;;4;30
+76;nő;1980.03.21;elvált;van;állami;pakisztáni;Essex;2700,00;500,00;Bachelor's;zöldpárti;;8;22
+77;nő;1972.10.15;házas;van;állami;walesi;Kent;3150,00;1800,00;A-level;munkáspárti;;2;15
+78;férfi;1968.12.12;házas;van;állami;ír;Greater London;3750,00;8500,00;Bachelor's;liberális;;6;33
+79;nő;1999.02.24;egyedülálló;nincs;;pakisztáni;West Midlands;0,00;400,00;Master's;zöldpárti;;0;50
+80;férfi;1983.08.05;házas;van;vegyes;skót;Yorkshire;2500,00;6100,00;GCSE;munkáspárti;;5;25
+81;férfi;1957.04.22;házas;van;állami;angol;Essex;3300,00;780,00;Master's;liberális;;4;18
+82;nő;1988.07.09;házas;van;állami;walesi;Kent;3100,00;900,00;Bachelor's;zöldpárti;;7;10
+83;férfi;1979.11.14;házas;van;magán;ír;Greater London;4400,00;3500,00;A-level;munkáspárti;;3;28
+84;nő;1966.05.18;házas;van;állami;pakisztáni;West Midlands;2100,00;2300,00;GCSE;konzervatív;;2;33
+85;nő;1992.02.03;egyedülálló;nincs;;skót;Yorkshire;0,00;1550,00;Bachelor's;liberális;;8;20
+86;férfi;1973.06.25;házas;van;állami;angol;Essex;3700,00;4200,00;Master's;zöldpárti;;5;15
+87;nő;1968.10.09;özvegy;van;állami;walesi;Kent;2000,00;3600,00;Doctorate;munkáspárti;;4;45
+88;férfi;1994.09.29;házas;van;vegyes;ír;Greater London;2400,00;1300,00;Bachelor's;konzervatív;;3;18
+89;nő;1987.08.20;elvált;nincs;;pakisztáni;West Midlands;0,00;1100,00;GCSE;liberális;;2;12
+90;férfi;1964.03.03;házas;van;állami;skót;Yorkshire;4100,00;5600,00;A-level;zöldpárti;;5;30
+91;férfi;1980.02.22;házas;van;állami;angol;Essex;3000,00;1200,00;Bachelor's;munkáspárti;;6;25
+92;nő;1970.09.13;házas;van;állami;walesi;Kent;2700,00;700,00;Master's;konzervatív;;3;40
+93;férfi;2001.06.29;egyedülálló;nincs;;ír;Greater London;0,00;500,00;GCSE;zöldpárti;;8;?
+94;nő;1952.11.07;házas;van;állami;pakisztáni;West Midlands;2850,00;2500,00;Doctorate;liberális;;2;33
+95;férfi;1963.01.12;házas;van;állami;skót;Yorkshire;2300,00;8100,00;Bachelor's;zöldpárti;;4;50
+96;nő;1975.12.25;elvált;nincs;;angol;Essex;0,00;3100,00;A-level;munkáspárti;;1;28
+97;nő;1989.06.08;házas;van;állami;walesi;Kent;3450,00;2700,00;Bachelor's;liberális;;7;45
+98;férfi;1967.09.04;házas;van;állami;ír;Greater London;3200,00;7000,00;Master's;zöldpárti;;5;18
+99;nő;1993.05.09;házas;van;állami;pakisztáni;West Midlands;2950,00;1300,00;Doctorate;munkáspárti;;4;10
+100;férfi;1976.04.18;házas;van;állami;skót;Yorkshire;3800,00;1600,00;Bachelor's;konzervatív;;2;40
+101;nő;1959.11.14;házas;van;állami;angol;Essex;2700,00;4200,00;GCSE;liberális;;6;22
+102;férfi;1998.03.12;egyedülálló;nincs;;walesi;Kent;0,00;2400,00;A-level;zöldpárti;;3;?
+103;nő;1961.06.18;házas;van;állami;ír;Greater London;4000,00;1800,00;Bachelor's;munkáspárti;;8;30
+104;férfi;1982.12.25;házas;van;állami;pakisztáni;West Midlands;2600,00;2200,00;GCSE;liberális;;4;15
+105;férfi;1971.09.07;házas;van;állami;skót;Yorkshire;3300,00;3100,00;Master's;konzervatív;;7;40
+106;férfi;1974.07.19;házas;van;állami;angol;Kent;2800,00;1500,00;Bachelor's;zöldpárti;;6;22
+107;nő;1991.10.23;házas;van;vegyes;walesi;Essex;3700,00;0,00;Master's;munkáspárti;;4;30
+108;férfi;1985.03.15;házas;van;állami;ír;Greater London;3000,00;3200,00;GCSE;liberális;;8;28
+109;nő;1963.01.17;özvegy;van;állami;pakisztáni;West Midlands;2200,00;1300,00;Doctorate;konzervatív;;2;18
+110;férfi;1976.09.11;elvált;nincs;;skót;Yorkshire;0,00;5000,00;A-level;zöldpárti;;5;40
+111;férfi;2000.06.30;egyedülálló;nincs;;angol;Essex;0,00;700,00;Bachelor's;liberális;;7;18
+112;nő;1987.05.21;házas;van;állami;walesi;Kent;2500,00;3900,00;GCSE;munkáspárti;;4;15
+113;férfi;1966.12.09;házas;van;magán;ír;Greater London;4100,00;2500,00;Master's;zöldpárti;;8;33
+114;nő;1970.10.12;házas;van;állami;pakisztáni;West Midlands;3100,00;3200,00;Bachelor's;konzervatív;;2;28
+115;nő;1995.08.08;egyedülálló;nincs;;skót;Yorkshire;0,00;2200,00;A-level;liberális;;6;50
+116;nő;1961.03.22;házas;van;állami;angol;Kent;3200,00;1800,00;Doctorate;zöldpárti;;7;10
+117;férfi;1989.11.17;házas;van;állami;walesi;Essex;2300,00;900,00;Bachelor's;munkáspárti;;5;40
+118;nő;1999.02.09;egyedülálló;nincs;;ír;Greater London;0,00;1500,00;GCSE;liberális;;8;?
+119;férfi;1975.05.06;házas;van;állami;pakisztáni;West Midlands;2700,00;2800,00;Master's;konzervatív;;2;22
+120;nő;1968.08.12;házas;van;állami;skót;Yorkshire;4000,00;2100,00;Doctorate;zöldpárti;;3;33
+121;férfi;1996.06.20;egyedülálló;nincs;;angol;Essex;0,00;500,00;Bachelor's;munkáspárti;;7;15
+122;nő;1984.04.16;házas;van;állami;walesi;Kent;2700,00;3200,00;GCSE;liberális;;4;18
+123;férfi;1963.02.14;házas;van;állami;ír;Greater London;3300,00;3700,00;Master's;zöldpárti;;6;50
+124;nő;2002.01.25;egyedülálló;nincs;;pakisztáni;West Midlands;0,00;2500,00;A-level;konzervatív;;2;28
+125;férfi;1958.08.19;házas;van;állami;skót;Yorkshire;3000,00;1400,00;Doctorate;munkáspárti;;5;40
+126;nő;1982.12.15;házas;van;állami;angol;Kent;2800,00;3200,00;Bachelor's;liberális;;7;12
+127;férfi;1990.05.05;egyedülálló;nincs;;walesi;Essex;0,00;1000,00;GCSE;zöldpárti;;3;22
+128;nő;1959.09.07;házas;van;állami;ír;Greater London;3600,00;2200,00;Master's;munkáspárti;;8;15
+129;férfi;1971.01.03;házas;van;állami;pakisztáni;West Midlands;2300,00;3800,00;Bachelor's;liberális;;2;18
+130;nő;1987.11.28;elvált;nincs;;skót;Yorkshire;0,00;2100,00;A-level;zöldpárti;;4;25
+131;férfi;1967.03.22;házas;van;állami;angol;Kent;2900,00;4200,00;Doctorate;konzervatív;;6;40
+132;nő;1993.08.18;házas;van;állami;walesi;Essex;2500,00;1200,00;GCSE;munkáspárti;;7;12
+133;férfi;1985.12.05;házas;van;állami;ír;Greater London;3000,00;3500,00;Master's;liberális;;5;50
+134;nő;1960.02.14;házas;van;állami;pakisztáni;West Midlands;2700,00;2800,00;Bachelor's;zöldpárti;;2;30
+135;nő;1981.09.30;egyedülálló;nincs;;skót;Yorkshire;0,00;1000,00;GCSE;munkáspárti;;3;18
+136;férfi;1982.06.30;házas;van;állami;walesi;Kent;2400,00;1500,00;Bachelor's;zöldpárti;;6;15
+137;nő;1963.10.21;házas;van;állami;ír;Essex;3700,00;3500,00;GCSE;liberális;;3;18
+138;nő;1990.02.11;házas;van;vegyes;pakisztáni;Greater London;3100,00;1200,00;Master's;konzervatív;;4;20
+139;férfi;1987.01.18;házas;van;állami;skót;West Midlands;2900,00;1300,00;Bachelor's;munkáspárti;;5;22
+140;nő;1969.08.24;házas;van;állami;angol;Yorkshire;3000,00;3100,00;GCSE;zöldpárti;;7;40
+141;férfi;1978.11.19;egyedülálló;nincs;;walesi;Essex;0,00;1200,00;A-level;liberális;;6;12
+142;nő;1955.09.12;házas;van;állami;ír;Kent;2600,00;4200,00;Bachelor's;munkáspárti;;8;18
+143;férfi;2000.12.31;egyedülálló;nincs;;pakisztáni;Greater London;0,00;500,00;Master's;konzervatív;;4;15
+144;nő;1974.07.15;házas;van;állami;skót;West Midlands;3600,00;4000,00;Doctorate;zöldpárti;;5;33
+145;nő;1983.06.10;házas;van;állami;angol;Yorkshire;2800,00;1800,00;GCSE;munkáspárti;;3;50
+146;férfi;1991.04.07;házas;van;állami;walesi;Essex;2000,00;2500,00;Bachelor's;liberális;;7;30
+147;nő;1968.12.05;házas;van;állami;ír;Kent;3100,00;1400,00;A-level;zöldpárti;;4;22
+148;férfi;1986.11.09;házas;van;állami;pakisztáni;Greater London;3300,00;1700,00;Master's;munkáspárti;;2;40
+149;nő;2001.03.14;egyedülálló;nincs;;skót;West Midlands;0,00;0,00;Doctorate;konzervatív;;8;?
+150;férfi;1977.08.22;házas;van;állami;angol;Yorkshire;4100,00;2000,00;Bachelor's;zöldpárti;;5;12
+151;nő;1985.05.30;házas;van;állami;walesi;Essex;3200,00;300,00;GCSE;liberális;;3;18
+152;nő;1964.07.10;házas;van;állami;ír;Kent;3400,00;2800,00;Bachelor's;munkáspárti;;7;50
+153;férfi;1992.12.18;egyedülálló;nincs;;pakisztáni;Greater London;0,00;1500,00;A-level;konzervatív;;2;28
+154;nő;1980.01.25;házas;van;állami;skót;West Midlands;3000,00;2300,00;Master's;zöldpárti;;5;20
+155;férfi;1971.09.16;házas;van;állami;angol;Yorkshire;3700,00;3500,00;Doctorate;munkáspárti;;4;33
+156;nő;1989.10.15;házas;van;állami;walesi;Essex;2400,00;4200,00;GCSE;liberális;;3;45
+157;férfi;1960.03.12;házas;van;állami;ír;Kent;2800,00;1200,00;Bachelor's;zöldpárti;;6;12
+158;nő;1988.11.05;házas;van;állami;pakisztáni;Greater London;3300,00;900,00;Master's;munkáspárti;;2;22
+159;férfi;1976.04.09;egyedülálló;nincs;;skót;West Midlands;0,00;1800,00;A-level;liberális;;7;40
+160;nő;1958.09.27;házas;van;állami;angol;Yorkshire;2500,00;3100,00;GCSE;zöldpárti;;5;30
+161;férfi;1997.07.03;egyedülálló;nincs;;walesi;Essex;0,00;500,00;Bachelor's;munkáspárti;;2;20
+162;nő;1967.05.18;házas;van;állami;ír;Kent;3200,00;2500,00;A-level;konzervatív;;3;18
+163;férfi;1983.12.12;házas;van;állami;pakisztáni;Greater London;2800,00;1200,00;Master's;zöldpárti;;6;50
+164;nő;2002.03.21;egyedülálló;nincs;;skót;West Midlands;0,00;600,00;Doctorate;munkáspárti;;8;?
+165;férfi;1970.11.06;házas;van;állami;angol;Yorkshire;3500,00;3300,00;Bachelor's;liberális;;5;33
+166;férfi;1990.06.11;házas;van;állami;walesi;Kent;2700,00;2200,00;Master's;munkáspárti;;6;25
+167;nő;1964.09.22;házas;van;állami;ír;Essex;3000,00;1400,00;GCSE;liberális;;3;20
+168;férfi;1985.02.18;házas;van;állami;pakisztáni;Greater London;3100,00;2500,00;A-level;zöldpárti;;4;15
+169;nő;1978.03.25;házas;van;állami;skót;West Midlands;3500,00;3200,00;Bachelor's;konzervatív;;5;40
+170;nő;1961.01.14;házas;van;állami;angol;Yorkshire;2800,00;1800,00;Master's;munkáspárti;;7;12
+171;férfi;1994.08.19;egyedülálló;nincs;;walesi;Essex;0,00;1200,00;GCSE;liberális;;3;50
+172;nő;1989.11.21;házas;van;állami;ír;Kent;3200,00;900,00;Doctorate;zöldpárti;;4;22
+173;férfi;1963.05.17;házas;van;állami;pakisztáni;Greater London;3300,00;1200,00;Bachelor's;munkáspárti;;6;40
+174;nő;1987.12.29;elvált;nincs;;skót;West Midlands;0,00;1000,00;A-level;konzervatív;;2;30
+175;férfi;1972.10.11;házas;van;állami;angol;Yorkshire;2400,00;2000,00;Master's;liberális;;7;18
+176;nő;1968.09.26;házas;van;állami;walesi;Essex;2700,00;300,00;GCSE;zöldpárti;;5;22
+177;férfi;1986.03.20;házas;van;állami;ír;Kent;3000,00;800,00;Bachelor's;munkáspárti;;6;15
+178;nő;1995.02.18;egyedülálló;nincs;;pakisztáni;Greater London;0,00;1500,00;A-level;konzervatív;;3;10
+179;férfi;1957.01.07;házas;van;állami;skót;West Midlands;3400,00;2600,00;Master's;zöldpárti;;8;33
+180;nő;1966.12.18;házas;van;állami;angol;Yorkshire;3100,00;1200,00;Doctorate;munkáspárti;;5;40
+181;férfi;1980.10.29;házas;van;állami;walesi;Essex;3200,00;800,00;GCSE;liberális;;7;18
+182;nő;1974.02.06;házas;van;állami;ír;Kent;2800,00;900,00;Bachelor's;zöldpárti;;3;25
+183;férfi;1992.11.15;egyedülálló;nincs;;pakisztáni;Greater London;0,00;1000,00;Master's;munkáspárti;;6;50
+184;nő;1982.05.23;házas;van;állami;skót;West Midlands;3500,00;1400,00;A-level;konzervatív;;4;20
+185;férfi;1961.08.30;házas;van;állami;angol;Yorkshire;2300,00;1800,00;Bachelor's;liberális;;2;12
+186;nő;1988.04.09;házas;van;állami;walesi;Essex;2400,00;900,00;GCSE;zöldpárti;;5;30
+187;férfi;1970.12.05;házas;van;állami;ír;Kent;3200,00;300,00;A-level;munkáspárti;;3;15
+188;nő;1990.01.17;egyedülálló;nincs;;pakisztáni;Greater London;0,00;2500,00;Bachelor's;konzervatív;;6;40
+189;férfi;1987.06.25;házas;van;állami;skót;West Midlands;2800,00;2200,00;Master's;zöldpárti;;7;50
+190;nő;1962.05.11;házas;van;állami;angol;Yorkshire;3000,00;1700,00;Doctorate;munkáspárti;;4;22
+191;férfi;1978.03.03;házas;van;állami;walesi;Essex;3100,00;800,00;GCSE;liberális;;5;12
+192;nő;1959.07.15;házas;van;állami;ír;Kent;2800,00;900,00;Bachelor's;zöldpárti;;2;33
+193;férfi;2002.02.19;egyedülálló;nincs;;pakisztáni;Greater London;0,00;0,00;A-level;munkáspárti;;8;30
+194;nő;1983.10.01;házas;van;állami;skót;West Midlands;3700,00;300,00;Master's;konzervatív;;7;18
+195;férfi;1999.09.29;egyedülálló;nincs;;angol;Yorkshire;0,00;2000,00;Doctorate;liberális;;5;20
